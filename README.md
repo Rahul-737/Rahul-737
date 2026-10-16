@@ -50,7 +50,7 @@ I'm working toward building projects that demonstrate my programming skills.
 ---
 
 ## 📊 GitHub Stats
-
+<!-- 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-737&show_icons=true&theme=tokyonight&hide_border=true)
@@ -59,7 +59,7 @@ I'm working toward building projects that demonstrate my programming skills.
 
 </div>
 
----
+--- -->
 
 ## 🌐 Connect With Me
 
