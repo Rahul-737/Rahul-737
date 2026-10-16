@@ -6,7 +6,7 @@
 
 *Learning to build. Building to improve.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rahul-737&color=7B68EE&style=flat-square)
+
 
 </div>
 
