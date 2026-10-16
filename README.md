@@ -40,12 +40,13 @@ Hey! I'm Rahul, a student passionate about programming and software development.
 
 ## 🚀 Projects
 
-I'm working toward building projects that demonstrate my programming skills.
+Soon..
+<!-- I'm working toward building projects that demonstrate my programming skills.
 
 | Project | Description | Technologies |
 |---|---|---|
 | Coming Soon | My next project will appear here. | JavaScript |
-| Coming Soon | A project to strengthen my programming fundamentals. | Java |
+| Coming Soon | A project to strengthen my programming fundamentals. | Java | -->
 
 ---
 
