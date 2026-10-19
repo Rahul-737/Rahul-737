@@ -97,8 +97,11 @@ More projects coming soon.
 
 ---
 
+
 <div align="center">
 
-*"One step at a time. One commit at a time."*
+### 🌙 Keep learning. Keep building.
+
+*Every commit is a step forward.*
 
 </div>
