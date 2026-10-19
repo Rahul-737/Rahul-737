@@ -25,7 +25,7 @@ Hey! I'm Rahul, a student passionate about programming and software development.
 
 ---
 
-## ⚡ Technologies & Tools
+<!-- ## ⚡ Technologies & Tools
 
 <div align="center">
 
@@ -37,10 +37,10 @@ Hey! I'm Rahul, a student passionate about programming and software development.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
----
+--- -->
 
 ## ⚡ Tech Stack
-
+<div align="center">
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
