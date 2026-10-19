@@ -76,13 +76,14 @@ More projects coming soon.
 | Coming Soon | My next project will appear here. | JavaScript |
 | Coming Soon | A project to strengthen my programming fundamentals. | Java | -->
 
+
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-737&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Rahul's GitHub activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-737&show_icons=true&theme=transparent&bg_color=0D1117&title_color=E6EDF3&text_color=B0B0B0&icon_color=909090&border_color=30363D&hide_border=false&hide_rank=true" alt="Rahul's GitHub Stats" />
 
 </div>
 
