@@ -78,17 +78,14 @@ More projects coming soon.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-737&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-737&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-737&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Rahul's GitHub activity" />
 
 </div>
 
----
 
 ## 🌐 Connect With Me
 
