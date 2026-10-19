@@ -21,6 +21,27 @@ Hey! I'm Rahul, a student passionate about programming and software development.
 - 🌱 Interested in building projects and understanding how things work.
 - 🎯 My goal is to become a skilled developer by learning, experimenting, and creating.
 
+
+---
+
+## `> Terminal`
+
+```bash
+rahul@developer:~$ whoami
+Rahul Raj — Aspiring Software Developer
+
+rahul@developer:~$ interests
+Programming | Web Development | Building Projects
+
+rahul@developer:~$ current_focus
+JavaScript | Java | Software Fundamentals
+
+rahul@developer:~$ philosophy
+Learn deeply. Build consistently. Improve continuously.
+```
+
+
+
 ---
 
 ## ⚡ Technologies & Tools
@@ -40,7 +61,7 @@ Hey! I'm Rahul, a student passionate about programming and software development.
 
 ## 🚀 Projects
 
-Soon..
+
 <!-- I'm working toward building projects that demonstrate my programming skills.
 
 | Project | Description | Technologies |
